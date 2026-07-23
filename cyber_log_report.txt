@@ -1,60 +1,51 @@
-===== CYBER THREAT LOG REPORT =====
-Name: 
-Handle:
-Start Time: 
-End Time: 
-Duration (minutes): 
-Score: 
-Rating: 
 
+===== CYBER THREAT LOG REPORT =====
+Name: Nellie Anne Estrella
+Handle: BlackZero
+Start Time: 2026-07-23 07:22:11.605087
+End Time: 2026-07-23 07:24:39.220395
+Duration (minutes): 2.46
+Score: 7/10
+Rating: ADVANCED
 ---- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMTP Phishing Campaign
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Failed login attempt detected from 192.168.1.214 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SSH Brute Force Attack
+WARNING: Multiple authentication failures for service
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: MySQL Data Theft
+ALERT: Failed login attempt detected from 192.168.1.228 on port
+ALERT: Failed login attempt detected from 192.168.1.92 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: FTP Credential Sniffing
+ALERT: Failed login attempt detected from 192.168.1.185 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: RDP Brute Force Attack
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTPS Web Exploit
+CRITICAL: Ransomware activity suspected via
+ALERT: Failed login attempt detected from 192.168.1.72 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTP Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.231 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Telnet Credential Theft
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Failed login attempt detected from 192.168.1.189 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: POP3 Credential Sniffing
+ALERT: Possible brute force attempt detected
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Proxy Web Exploit
+ALERT: Failed login attempt detected from 192.168.1.40 on port
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
 ===================================
