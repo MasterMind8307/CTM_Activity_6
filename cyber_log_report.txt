@@ -1,60 +1,51 @@
-===== CYBER THREAT LOG REPORT =====
-Name: 
-Handle:
-Start Time: 
-End Time: 
-Duration (minutes): 
-Score: 
-Rating: 
 
+===== CYBER THREAT LOG REPORT =====
+Name: MEKKA ELA V. BANZON
+Handle: AETHELVIZON
+Start Time: 2026-09-26 14:43:48.968393
+End Time: 2026-09-26 14:45:17.325918
+Duration (minutes): 1.47
+Score: 8/10
+Rating: ADVANCED
 ---- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Telnet Credential Theft
+ALERT: Possible brute force attempt detected
+ALERT: Failed login attempt detected from 192.168.1.134 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: DNS Amplification DDoS
+CRITICAL: Ransomware activity suspected via
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMTP Phishing Campaign
+ALERT: Possible brute force attempt detected
+WARNING: Multiple authentication failures for service
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: SMB Ransomware Attack
+ALERT: Failed login attempt detected from 192.168.1.9 on port
+ALERT: Failed login attempt detected from 192.168.1.28 on port
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: Proxy Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: FTP Credential Sniffing
+WARNING: Multiple authentication failures for service
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: RDP Brute Force Attack
+CRITICAL: Ransomware activity suspected via
+ALERT: Possible brute force attempt detected
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: HTTPS Web Exploit
+ALERT: Possible brute force attempt detected
+NOTICE: Suspicious traffic pattern detected targeting port 
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: POP3 Credential Sniffing
+WARNING: Multiple authentication failures for service
+WARNING: Multiple authentication failures for service
 -------------------
----- Threat Logs ----
-Threat:
-CRITICAL:
-CRITICAL:
+Threat: MySQL Data Theft
+WARNING: Multiple authentication failures for service
+ALERT: Failed login attempt detected from 192.168.1.105 on port
 -------------------
 ===================================
